@@ -1,0 +1,22 @@
+{
+  "name": "eigo-go-go",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/paeliya/eigo-go-go.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paeliya/eigo-go-go/issues"
+  },
+  "homepage": "https://github.com/paeliya/eigo-go-go",
+  "dependencies": {
+    "express": "^4.12.2"
+  }
+}
